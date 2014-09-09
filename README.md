@@ -10,4 +10,4 @@ A tentative list of exercises include:
 3. TBD
 
 #Starting Environment#
-* Ubuntu 14.04 64 bit
+* Ubuntu 14.04, 64-bit
