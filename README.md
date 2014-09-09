@@ -1,5 +1,7 @@
 DriverExercises
 ===============
+Linux kernel driver stuff
+
 #Background#
 A set of exercises with the intent of becoming familiar with the Linux kernel. The maybe-final goal is to transfer this knowledge to Android and make a contribution to an open source Android rom (no promises).
 
